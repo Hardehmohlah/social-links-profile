@@ -48,7 +48,7 @@ body div a {
   border-radius: 10px;
   text-align: center;
   width: 150px;
-  transition: background-color 0.1s ease-in-out;
+  transition: background-color 0.1ms ease-in-out;
 }
 body div a:hover {
   background-color: hsl(75, 94%, 57%);
